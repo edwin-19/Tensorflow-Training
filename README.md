@@ -3,5 +3,5 @@
 ## ToDO
 - [ ] Time Series - LSTM
 - [x] Text Classification
-- [ ] Image Classification
+- [x] Image Classification
 - [ ] Text Generation
